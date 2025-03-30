@@ -136,7 +136,7 @@
                         }
                     ],
                     "valueType": "xs:double",
-                    "value": "3.43604",
+                    "value": "0.90954",
                     "modelType": "Property"
                 },
                 {
@@ -328,7 +328,7 @@
                                 }
                             ],
                             "valueType": "xs:string",
-                            "value": "Hannover Hauptbahnhof",
+                            "value": "Köln Hauptbahnhof",
                             "modelType": "Property"
                         },
                         {
@@ -406,7 +406,7 @@
                                 }
                             ],
                             "valueType": "xs:string",
-                            "value": "30159",
+                            "value": "50667",
                             "modelType": "Property"
                         },
                         {
@@ -445,7 +445,7 @@
                                 }
                             ],
                             "valueType": "xs:string",
-                            "value": "Hannover",
+                            "value": "Cologne",
                             "modelType": "Property"
                         },
                         {
@@ -552,7 +552,7 @@
                                 }
                             ],
                             "valueType": "xs:string",
-                            "value": "Dortmund Hauptbahnhof",
+                            "value": "Düsseldorf Hauptbahnhof",
                             "modelType": "Property"
                         },
                         {
@@ -610,7 +610,7 @@
                                 }
                             ],
                             "valueType": "xs:string",
-                            "value": "44135",
+                            "value": "40210",
                             "modelType": "Property"
                         },
                         {
@@ -639,7 +639,7 @@
                                 }
                             ],
                             "valueType": "xs:string",
-                            "value": "Dortmund",
+                            "value": "Düsseldorf",
                             "modelType": "Property"
                         },
                         {
