@@ -328,7 +328,7 @@
                                 }
                             ],
                             "valueType": "xs:string",
-                            "value": "Hauptbahnhof Berlin",
+                            "value": "",
                             "modelType": "Property"
                         },
                         {
@@ -367,7 +367,7 @@
                                 }
                             ],
                             "valueType": "xs:string",
-                            "value": "55",
+                            "value": "",
                             "modelType": "Property"
                         },
                         {
@@ -406,7 +406,7 @@
                                 }
                             ],
                             "valueType": "xs:string",
-                            "value": "10557",
+                            "value": "",
                             "modelType": "Property"
                         },
                         {
@@ -445,7 +445,7 @@
                                 }
                             ],
                             "valueType": "xs:string",
-                            "value": "Berlin",
+                            "value": "",
                             "modelType": "Property"
                         },
                         {
@@ -484,7 +484,7 @@
                                 }
                             ],
                             "valueType": "xs:string",
-                            "value": "Germany",
+                            "value": "",
                             "modelType": "Property"
                         }
                     ],
@@ -552,7 +552,7 @@
                                 }
                             ],
                             "valueType": "xs:string",
-                            "value": "Central Station Hamburg",
+                            "value": "",
                             "modelType": "Property"
                         },
                         {
@@ -581,7 +581,7 @@
                                 }
                             ],
                             "valueType": "xs:string",
-                            "value": "92",
+                            "value": "",
                             "modelType": "Property"
                         },
                         {
@@ -610,7 +610,7 @@
                                 }
                             ],
                             "valueType": "xs:string",
-                            "value": "20095",
+                            "value": "",
                             "modelType": "Property"
                         },
                         {
@@ -639,7 +639,7 @@
                                 }
                             ],
                             "valueType": "xs:string",
-                            "value": "Hamburg ",
+                            "value": "",
                             "modelType": "Property"
                         },
                         {
@@ -668,7 +668,7 @@
                                 }
                             ],
                             "valueType": "xs:string",
-                            "value": "Germany",
+                            "value": "",
                             "modelType": "Property"
                         }
                     ],
