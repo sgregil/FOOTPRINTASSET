@@ -136,7 +136,7 @@
                         }
                     ],
                     "valueType": "xs:double",
-                    "value": "2.83",
+                    "value": "1.62",
                     "modelType": "Property"
                 },
                 {
@@ -328,7 +328,7 @@
                                 }
                             ],
                             "valueType": "xs:string",
-                            "value": "Karlsruhe Hauptbahnhof",
+                            "value": "Dresden Hauptbahnhof",
                             "modelType": "Property"
                         },
                         {
@@ -406,7 +406,7 @@
                                 }
                             ],
                             "valueType": "xs:string",
-                            "value": "76137",
+                            "value": "1067",
                             "modelType": "Property"
                         },
                         {
@@ -445,7 +445,7 @@
                                 }
                             ],
                             "valueType": "xs:string",
-                            "value": "Karlsruhe",
+                            "value": "Dresden",
                             "modelType": "Property"
                         },
                         {
@@ -552,7 +552,7 @@
                                 }
                             ],
                             "valueType": "xs:string",
-                            "value": "Freiburg Hauptbahnhof",
+                            "value": "Chemnitz Hauptbahnhof",
                             "modelType": "Property"
                         },
                         {
@@ -610,7 +610,7 @@
                                 }
                             ],
                             "valueType": "xs:string",
-                            "value": "79098",
+                            "value": "9111",
                             "modelType": "Property"
                         },
                         {
@@ -639,7 +639,7 @@
                                 }
                             ],
                             "valueType": "xs:string",
-                            "value": "Freiburg",
+                            "value": "Chemnitz",
                             "modelType": "Property"
                         },
                         {
