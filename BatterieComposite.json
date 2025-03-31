@@ -136,7 +136,7 @@
                         }
                     ],
                     "valueType": "xs:double",
-                    "value": "2.4254400000000005",
+                    "value": "3.8402800000000004",
                     "modelType": "Property"
                 },
                 {
@@ -328,7 +328,7 @@
                                 }
                             ],
                             "valueType": "xs:string",
-                            "value": "Leipzig Hauptbahnhof",
+                            "value": "Berlin Ostbahnhof",
                             "modelType": "Property"
                         },
                         {
@@ -406,7 +406,7 @@
                                 }
                             ],
                             "valueType": "xs:string",
-                            "value": "4103",
+                            "value": "10243",
                             "modelType": "Property"
                         },
                         {
@@ -445,7 +445,7 @@
                                 }
                             ],
                             "valueType": "xs:string",
-                            "value": "Leipzig",
+                            "value": "Berlin",
                             "modelType": "Property"
                         },
                         {
@@ -552,7 +552,7 @@
                                 }
                             ],
                             "valueType": "xs:string",
-                            "value": "Dresden Hauptbahnhof",
+                            "value": "Leipzig Hauptbahnhof",
                             "modelType": "Property"
                         },
                         {
@@ -610,7 +610,7 @@
                                 }
                             ],
                             "valueType": "xs:string",
-                            "value": "1067",
+                            "value": "4103",
                             "modelType": "Property"
                         },
                         {
@@ -639,7 +639,7 @@
                                 }
                             ],
                             "valueType": "xs:string",
-                            "value": "Dresden ",
+                            "value": "Leipzig",
                             "modelType": "Property"
                         },
                         {
